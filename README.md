@@ -2,7 +2,7 @@
 This repository contains the projects developed during my internship at CodeSoft:
 
 
-#1. Contact Book
+##1. Contact Book
 A Tkinter-based app to manage contacts.
 - **Features**: Add, view, search, update, and delete contacts.
 - **Tech**: Python, Tkinter
